@@ -42,7 +42,7 @@ python demo.py
 ```
 
 7. Run tests
-``bash
+```bash
 pytest
 ```
 
