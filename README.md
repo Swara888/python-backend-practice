@@ -21,23 +21,30 @@ Designed to demonstrate **clean code, modularity, error handling, and testing** 
 ```bash
 git clone https://github.com/Swara888/python-backend-practice.git
 cd python-backend-practice
-
+```
 2. Create & activate virtual environment
+```bash
 python -m venv .venv
 # Windows
 .venv\Scripts\activate
 # Mac/Linux
 source .venv/bin/activate
+```
 
 3. Install requirements
+```bash
 pip install -r requirements.txt
+```
 
-4. Run demo
+5. Run demo
+```bash
 python demo.py
+```
 
-5. Run tests
+7. Run tests
+``bash
 pytest
-
+```
 
 💡 Skills Demonstrated
 
@@ -67,19 +74,4 @@ Add more advanced validation and data processing
 
 ---
 
-### ✅ **Step 8: Upload to GitHub**
-
-1. Go to your repo → click **Add file → Create new file**.  
-2. Copy each module and commit **directly to main**.  
-3. Create a `tests/` folder and add test files.  
-4. Add `requirements.txt` and `README.md`.  
-
-> After this, your repo is **fully structured, professional, tested, and polished**, ready to **show HR or recruiters**.  
-
----
-
-If you want, I can also make a **ready-to-click order list**:  
-- Which files to add first, which commit messages to use, and in which sequence — so you literally copy-paste **everything in 10 minutes**.  
-
-Do you want me to make that for you?
 
