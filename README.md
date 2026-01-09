@@ -46,21 +46,19 @@ python demo.py
 pytest
 ```
 
-💡 Skills Demonstrated
 
-Python functions and modules
+## **💡 Skills Demonstrated**
 
-Exception handling and validation
+- Python functions and modules  
+- Exception handling and validation  
+- API consumption using requests  
+- Writing reusable and testable code  
+- Pytest-based testing  
+- Professional documentation with README  
 
-API consumption using requests
 
-Writing reusable and testable code
 
-Pytest-based testing
-
-Professional documentation with README
-
-🔮 Future Scope
+## **🔮 Future Scope**
 
 Add more Python backend concepts: decorators, logging, database integration
 
