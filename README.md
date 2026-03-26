@@ -46,6 +46,8 @@ python demo.py
 pytest
 ```
 
+## QA / Testing Focus
+- Modular design and pytest coverage ensures testability and reliable backend workflows.
 
 ## **💡 Skills Demonstrated**
 
